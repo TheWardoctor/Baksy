@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Baksy" name="Baksy Repository" version="1.0.1" provider-name="Wardoctor">
+	<extension point="xbmc.addon.repository" name="Baksy Repository">
+		<info compressed="false">https://raw.githubusercontent.com/TheWardoctor/Baksy/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/TheWardoctor/Baksy/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/TheWardoctor/Baksy/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Baksy Repository</summary>
+		<description></description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
