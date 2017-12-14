@@ -50,6 +50,7 @@ ALL_VIEW_CODES={
 		'skin.xonfluence': 515,
 		'skin.fuse.neue': 515,
 		'skin.embdis': 53,
+		'skin.estuary': 55,
     },
     'thumbnail': {
         'skin.confluence': 500, # Thumbnail
@@ -60,6 +61,7 @@ ALL_VIEW_CODES={
 		'skin.xonfluence': 515,
 		'skin.fuse.neue': 51,
 		'skin.embdis': 53,
+		'skin.estuary': 55,
     },
     'movies': {
         'skin.confluence': 500, # Thumbnail 515, # Media Info 3
@@ -73,6 +75,7 @@ ALL_VIEW_CODES={
 		'skin.eminence.mod': 51,
 		'skin.aeon.nox.silvo': 507,
 		'skin.embdis': 53,
+		'skin.estuary': 55,
     },
     'tvshows': {
         'skin.confluence': 500, # Thumbnail 515, # Media Info 3
@@ -83,6 +86,7 @@ ALL_VIEW_CODES={
 		'skin.xonfluence': 515,
 		'skin.fuse.neue': 51,
 		'skin.embdis': 53,
+		'skin.estuary': 55,
     },
     'seasons': {
         'skin.confluence': 50, # List
@@ -93,6 +97,7 @@ ALL_VIEW_CODES={
 		'skin.xonfluence': 515,
 		'skin.fuse.neue': 51,
 		'skin.embdis': 53,
+		'skin.estuary': 55,
     },
     'episodes': {
         'skin.confluence': 50, # Media Info
@@ -103,6 +108,7 @@ ALL_VIEW_CODES={
 		'skin.xonfluence': 515,
 		'skin.fuse.neue': 51,
 		'skin.embdis': 53,
+		'skin.estuary': 55,
     },
 }
 def log(message): xbmc.log(message) # Write something on XBMC log
